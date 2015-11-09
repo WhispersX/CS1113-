@@ -1,0 +1,14 @@
+Welcome to the Idris REPL!
+zero
+zero : Bit
+λΠ> one
+one : Bit
+λΠ> Bit
+Bit : Type
+λΠ> one
+one : Bit
+λΠ> :t one
+one : Bit
+λΠ> :t id
+id : a -> a
+λΠ> 

@@ -1,0 +1,11 @@
+total 136
+drwxrwxr-x 3 cs1 cs1  4096 Aug 29 22:56 code
+drwxrwxr-x 4 cs1 cs1  4096 Aug 31 11:40 figures
+-rw-rw-r-- 1 cs1 cs1 12847 Aug 29 22:56 homework.html
+-rw-rw-r-- 1 cs1 cs1 29901 Sep  2 10:42 labs.html
+drwxrwxr-x 2 cs1 cs1  4096 Sep  2 10:42 labs-images
+-rw-rw-r-- 1 cs1 cs1 45688 Sep  3 14:37 lectures.html
+-rw-rw-r-- 1 cs1 cs1     0 Sep  3 15:48 mydir.txt
+-rw-rw-r-- 1 cs1 cs1     5 Sep  3 15:45 my.txt
+-rw-rw-r-- 1 cs1 cs1 17449 Aug 31 11:10 quizzes.html
+-rw-rw-r-- 1 cs1 cs1   108 Aug 29 22:56 README.md
